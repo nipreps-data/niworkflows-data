@@ -3,3 +3,8 @@
 	url = https://github.com/chrisfilo/BIDS-examples-1.git
 	datalad-url = http://github.com/chrisfilo/BIDS-examples-1.git
 	branch = enh/ds054
+[submodule "ds000030"]
+	path = ds000030
+	url = https://github.com/nipreps-data/ds000030.git
+	datalad-id = e214419d-de61-452f-97fe-092377a9efe7
+	datalad-url = https://github.com/nipreps-data/ds000030.git
