@@ -8,3 +8,8 @@
 	url = https://github.com/nipreps-data/ds000030.git
 	datalad-id = e214419d-de61-452f-97fe-092377a9efe7
 	datalad-url = https://github.com/nipreps-data/ds000030.git
+[submodule "ds000003"]
+	path = ds000003
+	url = https://github.com/nipreps-data/ds000003.git
+	datalad-id = 71d520aa-5dff-4235-a9b2-d51d3a1afc87
+	datalad-url = https://github.com/nipreps-data/ds000003.git
