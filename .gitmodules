@@ -1,0 +1,5 @@
+[submodule "BIDS-examples-1-enh-ds054"]
+	path = BIDS-examples-1-enh-ds054
+	url = https://github.com/chrisfilo/BIDS-examples-1.git
+	datalad-url = http://github.com/chrisfilo/BIDS-examples-1.git
+	branch = enh/ds054
